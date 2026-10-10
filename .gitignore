@@ -15,3 +15,7 @@ build/
 *.proj
 *.dol
 /dumped_audio/
+
+# Reaper
+*.rpp-bak
+*.reapeaks

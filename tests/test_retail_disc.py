@@ -73,9 +73,21 @@ def replacement_sound_effect(replaced_sound_effect) -> numpy.ndarray:
 def patched_disc(retail_iso_path, replacement_music, replaced_sound_effect, replacement_sound_effect, tmp_path_factory):
     work_directory = tmp_path_factory.mktemp("patched_disc")
     soundfile.write(work_directory / "song.wav", replacement_music, 48000)
-    soundfile.write(work_directory / "ding.flac", replacement_sound_effect, replaced_sound_effect.sample_rate)
+    sample_rate = replaced_sound_effect.sample_rate
+    other_sound_before = tone_with_noise(sample_rate, sample_rate, 200, seed=7)
+    other_sound_after = tone_with_noise(sample_rate, sample_rate, 300, seed=8)
+    soundfile.write(
+        work_directory / "mix.flac",
+        numpy.concatenate([other_sound_before, replacement_sound_effect, other_sound_after]),
+        sample_rate,
+    )
+    sound_effect_time_slot = {
+        "replacement_file": "mix.flac",
+        "time_start": len(other_sound_before) / sample_rate,
+        "time_stop": (len(other_sound_before) + len(replacement_sound_effect)) / sample_rate,
+    }
     (work_directory / "config.json").write_text(
-        json.dumps({"music/ovr.wav": "song.wav", REPLACED_SOUND_EFFECT: "ding.flac"})
+        json.dumps({"music/ovr.wav": "song.wav", REPLACED_SOUND_EFFECT: sound_effect_time_slot})
     )
     patch_disc_image(work_directory / "config.json", retail_iso_path, work_directory / "patched.iso")
     return GameCubeDiscImage(work_directory / "patched.iso")

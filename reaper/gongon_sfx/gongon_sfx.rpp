@@ -1,0 +1,751 @@
+<REAPER_PROJECT 0.1 "7.39/win64" 1791647012
+  <NOTES 0 2
+  >
+  RIPPLE 2 1
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 3
+  ZOOM 73.09829263890892 0 0
+  VZOOMEX 14.85264397 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 0
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {19FAAE21-5DDD-4741-A05C-BF8BD220FC74}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {C6BF8836-8053-4EC4-9D42-66A4D55BC030}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {E0440A22-8CB7-4291-8F4A-19AFC0AD876F}
+    NAME gongon
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E0440A22-8CB7-4291-8F4A-19AFC0AD876F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.0
+      SNAPOFFS 0
+      LENGTH 0.82
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1CBB09FD-AE40-400C-B84B-7F17BE9C9804}
+      IID 1
+      NAME SFXgoli_1up_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A120122-6493-4A98-B400-8C8B4276F009}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_1up_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.82
+      SNAPOFFS 0
+      LENGTH 0.87303854875283
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1251091-BFC2-4269-9077-65186E4C1497}
+      IID 2
+      NAME SFXgoli_bumper1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AE85FE4-9A71-4F74-A7E3-E72B45D5CF38}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_bumper1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.6930385487528299
+      SNAPOFFS 0
+      LENGTH 0.46043083900227
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CCBD107-B12C-48FE-AF1D-88F2C6A3F7F8}
+      IID 3
+      NAME SFXgoli_bumper2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA22F51E-A5DE-42CE-8CAC-1716AC5AD48B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_bumper2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.1534693877551
+      SNAPOFFS 0
+      LENGTH 0.48848072562358
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EFD834E-3FD8-4BF5-98B4-C883EDAB980F}
+      IID 4
+      NAME SFXgoli_bumper3_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E228CCC7-5312-465A-8700-57A7D6923994}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_bumper3_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.64195011337868
+      SNAPOFFS 0
+      LENGTH 0.47804988662132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7AEB4204-8E35-40A9-B8D1-6EF097A12E9E}
+      IID 5
+      NAME SFXgoli_bumper4_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F08D88A-7023-4978-A1C7-C4B50DB39798}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_bumper4_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.1199999999999997
+      SNAPOFFS 0
+      LENGTH 0.94238095238095
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {108F0D7A-717C-484B-AFAF-22FF5D84428F}
+      IID 6
+      NAME SFXgoli_bumper5_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F3EA61C1-19F7-41C2-964A-2433DA76A62F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_bumper5_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.062380952380949
+      SNAPOFFS 0
+      LENGTH 0.66521541950113
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF6C673B-A08B-4883-B7B4-DCDDBE1A885D}
+      IID 7
+      NAME SFXgoli_bumper6_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82B65FEC-EF97-4E09-8F90-DFA99A7C1D92}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_bumper6_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.727596371882079
+      SNAPOFFS 0
+      LENGTH 0.7734693877551
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA6B4772-EB1A-4D40-96DE-A0CB34AB37A9}
+      IID 8
+      NAME SFXgoli_conte_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B939096B-A82B-4F8F-B8F1-3B22E8D01233}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_conte_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.501065759637179
+      SNAPOFFS 0
+      LENGTH 1.27478458049887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {713E7785-90A3-4532-A557-F640C00DB1A7}
+      IID 9
+      NAME SFXgoli_fall1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91706220-3FB2-4153-85FC-6F716DDFA372}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_fall1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.775850340136048
+      SNAPOFFS 0
+      LENGTH 1.4787074829932
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F23593E4-607A-4536-B8D8-A37C523F5B31}
+      IID 10
+      NAME SFXgoli_fall2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6518F15-C8A0-4106-B266-14494586DA8C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_fall2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.254557823129248
+      SNAPOFFS 0
+      LENGTH 0.95469387755102
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62A2A8CC-819D-4053-9804-B28600DBDCCA}
+      IID 11
+      NAME SFXgoli_gameover_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {778669E0-A40F-436E-BD10-5CE21612EED7}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_gameover_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.209251700680268
+      SNAPOFFS 0
+      LENGTH 0.53532879818594
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {21FCCAA1-D3A7-4F01-AADC-A407DAB8A50D}
+      IID 12
+      NAME SFXgoli_get1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61E876E0-460C-4054-84A6-94C886F1492E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_get1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.744580498866208
+      SNAPOFFS 0
+      LENGTH 1.06324263038549
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {91C55F4A-3FBB-4831-99C6-FE4C44A0ADDF}
+      IID 13
+      NAME SFXgoli_goal2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2DC1CDD-59BE-485D-B284-E74D123971AA}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_goal2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.383061224489794
+      SNAPOFFS 0
+      LENGTH 1.35709750566893
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F12F57B3-8572-4AAE-8FA3-CFF71ACB2718}
+      IID 16
+      NAME SFXgoli_goal3_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B81BCD01-F708-4530-B292-9DC102AFE168}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_goal3_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.740158730158724
+      SNAPOFFS 0
+      LENGTH 0.77206349206349
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE107FCE-07C3-4F0B-8212-A7CE782E140C}
+      IID 17
+      NAME SFXgoli_husaget1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92E4BBB2-4CC6-41CE-ADDE-B3849966E6C9}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_husaget1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.512222222222213
+      SNAPOFFS 0
+      LENGTH 0.54569160997732
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {17693B6B-218B-4FF9-A36F-7727E6A2BF7B}
+      IID 18
+      NAME SFXgoli_select_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ADC149DC-B718-47E2-AA22-20337B1632F3}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_select_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.057913832199533
+      SNAPOFFS 0
+      LENGTH 0.46895691609977
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D040BCE-6339-4561-8C24-EB2B81DCC94C}
+      IID 19
+      NAME SFXgoli_shock1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {520C5FED-973F-47F6-B17A-3E2F20AB77F3}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_shock1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.526870748299304
+      SNAPOFFS 0
+      LENGTH 0.47387755102041
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {240F5563-A581-4683-91DF-C0092245C254}
+      IID 20
+      NAME SFXgoli_shock2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D49F4326-C399-44B7-B312-6A32A10A362D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_shock2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.000748299319714
+      SNAPOFFS 0
+      LENGTH 0.45269841269841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BCE271CB-0844-43AE-B79D-A6B1830712E7}
+      IID 21
+      NAME SFXgoli_shock3_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A101E9A3-1372-47F2-9D05-2E43944E1F8D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_shock3_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.453446712018124
+      SNAPOFFS 0
+      LENGTH 0.56086167800454
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F249AB1-4B10-4144-AEC6-F1CE8C3DECF9}
+      IID 22
+      NAME SFXgoli_shock4_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A94B99B8-18E2-4013-91EC-02DA3C7195BB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_shock4_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.014308390022663
+      SNAPOFFS 0
+      LENGTH 0.72621315192744
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A3F56D4-63A6-44D1-BFC3-DFC427D58927}
+      IID 23
+      NAME SFXgoli_start_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89BC9C77-4802-47A0-8DD7-572DF1545EC5}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_start_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.740521541950102
+      SNAPOFFS 0
+      LENGTH 0.62925170068027
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C0010AF-FDF7-4218-A984-9304F0EFB07B}
+      IID 24
+      NAME SFXgoli_timeover_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEE2B11D-F1D3-454E-9092-6438F64CCC0F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_timeover_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.369773242630373
+      SNAPOFFS 0
+      LENGTH 0.29433106575964
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4977C471-E70F-446F-A16E-FDC7F3E3CC59}
+      IID 25
+      NAME SFXbananadorop_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57DB3C03-5DA4-46E0-A289-9B7EF784BBC1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXbananadorop_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.664104308390012
+      SNAPOFFS 0
+      LENGTH 2.71600907029478
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BD365C4-4FFE-45BE-93E2-812B5263FC5D}
+      IID 26
+      NAME SFXtouchdown02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B64512F6-193D-40E9-98D7-1C8FA1A7C9A5}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtouchdown02_basic_macro.wav"
+      >
+    >
+  >
+  <TRACK {7BA636D2-9935-4A22-A435-41E1D9AB8129}
+    NAME "gongon same audio 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7BA636D2-9935-4A22-A435-41E1D9AB8129}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 9.746870748299315
+      SNAPOFFS 0
+      LENGTH 1.63619047619048
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3E99CD76-5C76-4465-8EA1-DFF235E372D3}
+      IID 14
+      NAME SFXgoli_goal4_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {002BF062-93DA-4423-BD28-EC8AE305254C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_goal4_basic_macro.wav"
+      >
+    >
+  >
+  <TRACK {89AFFA87-08E4-4C49-A241-93A94842E3C5}
+    NAME "gongon same audio 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {89AFFA87-08E4-4C49-A241-93A94842E3C5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 9.746439909297047
+      SNAPOFFS 0
+      LENGTH 1.62600907029478
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F39CB078-FD42-4DA8-9A1F-DA131BC7080D}
+      IID 15
+      NAME SFXgoli_goal_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {148813BC-744B-444C-BECC-179255CC59C2}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXgoli_goal_basic_macro.wav"
+      >
+    >
+  >
+>

@@ -1,0 +1,5455 @@
+<REAPER_PROJECT 0.1 "7.39/win64" 1791648200
+  <NOTES 0 2
+  >
+  RIPPLE 2 1
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 12
+  ZOOM 173.29297000191903 979 0
+  VZOOMEX 14.7918272 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 0
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {19FAAE21-5DDD-4741-A05C-BF8BD220FC74}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {C6BF8836-8053-4EC4-9D42-66A4D55BC030}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {2023E017-E81C-4230-8146-F82A697B5ED1}
+    NAME misc
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2023E017-E81C-4230-8146-F82A697B5ED1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.0
+      SNAPOFFS 0
+      LENGTH 4.34467120181406
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06074F58-9839-41FB-898D-7270C142BBE7}
+      IID 1
+      NAME SFXse162.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA7F11DB-D9F7-4280-A6A2-40E20C4C7A61}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXse162.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.34467120181406
+      SNAPOFFS 0
+      LENGTH 4.34467120181406
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {39E7262A-0369-44A4-A4F9-8DD526FB9DF2}
+      IID 2
+      NAME SFXse163.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E644D833-E2B7-436F-8A74-A1896EC1C8B1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SFXse163.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.68934240362812
+      SNAPOFFS 0
+      LENGTH 0.14496598639456
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4DCCCD86-7DC2-4491-898A-211E827CF2B1}
+      IID 3
+      NAME SND_SE01_RUN01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B74547FE-0964-4844-BD40-B6669D25D53E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SE01_RUN01.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.834308390022679
+      SNAPOFFS 0
+      LENGTH 0.28757369614512
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {178D90F0-0A67-4027-8F52-E78AE8517D4A}
+      IID 4
+      NAME SND_SE01_RUN02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A99CB88-878B-40E0-9A3D-71CAFD019079}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SE01_RUN02.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.1218820861678
+      SNAPOFFS 0
+      LENGTH 0.39873015873016
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E6F6AFD-14B7-42F0-858E-BD48BD838BA5}
+      IID 5
+      NAME SND_SE01_RUN03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD085C24-844C-4755-885A-10267E8F1AA6}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SE01_RUN03.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.52061224489796
+      SNAPOFFS 0
+      LENGTH 0.22285714285714
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F6EA0F9-9406-4DB9-A084-E1BEC9015943}
+      IID 6
+      NAME SND_SEB_SE_BALL_SEPCM.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21B439C3-D289-44E1-AF7C-2729B9309193}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM.wav"
+      >
+    >
+    <ITEM
+      POSITION 9.7434693877551
+      SNAPOFFS 0
+      LENGTH 0.2843537414966
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {31E42D8F-0EC4-4C34-B2E6-ECE92F9ABD21}
+      IID 7
+      NAME SND_SEB_SE_BALL_SEPCM_1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0DDA17B-C6FE-4351-96FE-C1ABD4794A53}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.0278231292517
+      SNAPOFFS 0
+      LENGTH 0.07374149659864
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8CBC5A85-41CA-43A3-B43D-C39CC9076570}
+      IID 8
+      NAME SND_SEB_SE_BALL_SEPCM_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE088B2D-8236-47AA-92AF-FFADA15379BF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.10156462585034
+      SNAPOFFS 0
+      LENGTH 0.75308390022676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9303E62-8AFF-41C0-929D-A7B075E6C532}
+      IID 9
+      NAME SND_SEB_SE_BALL_SEPCM_13.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1D05012-E9D0-4716-80A0-D98D4B0FFD2A}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_13.wav"
+      >
+    >
+    <ITEM
+      POSITION 10.8546485260771
+      SNAPOFFS 0
+      LENGTH 0.52952380952381
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE21B180-0271-407F-B01A-4753C6FAA86A}
+      IID 10
+      NAME SND_SEB_SE_BALL_SEPCM_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12462EC0-CAA9-4E21-AB15-210E1470EDF3}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.384172335600908
+      SNAPOFFS 0
+      LENGTH 0.1152380952381
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F38B466B-08C6-42E2-AF3A-C8EF4B96BC20}
+      IID 11
+      NAME SND_SEB_SE_BALL_SEPCM_23.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E7E6D57-B6F0-4AA2-945C-8F84763A3C7B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_23.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.499410430839008
+      SNAPOFFS 0
+      LENGTH 0.13507936507937
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC6204FD-EE57-41CE-932B-1C792F0693B1}
+      IID 12
+      NAME SND_SEB_SE_BALL_SEPCM_3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {001D898E-E7EC-4C6B-A5FE-C81F154E7FDE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 11.634489795918379
+      SNAPOFFS 0
+      LENGTH 0.40433106575964
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5BD15BE1-E8D1-4019-BA64-0B992EEBDCDE}
+      IID 13
+      NAME SND_SEB_SE_BALL_SEPCM_4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00D6FB1F-A5DE-4030-9FEC-06F2C4AAA5FF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_4.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.038820861678019
+      SNAPOFFS 0
+      LENGTH 0.16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1919CC5B-167D-48F6-8B10-994618A89689}
+      IID 15
+      NAME SND_SEB_SE_BALL_SEPCM_5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4996B85C-22AD-4FDA-A330-5F5AE132EB59}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.19882086167802
+      SNAPOFFS 0
+      LENGTH 0.46149659863946
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4AAB8422-7521-4D15-A752-91A8D4A11EF8}
+      IID 16
+      NAME SND_SEB_SE_BALL_SEPCM_6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB14C786-8FBD-4695-81D0-5AB1B6EC0099}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_6.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.66031746031748
+      SNAPOFFS 0
+      LENGTH 0.15340136054422
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C30A3793-1FCB-4507-A7D1-06F10AF28F82}
+      IID 17
+      NAME SND_SEB_SE_BALL_SEPCM_7.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74989300-449C-438C-BAD8-95D24514C1CD}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 12.8137188208617
+      SNAPOFFS 0
+      LENGTH 0.35020408163265
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ADAE1EB3-C2BA-47EF-9E07-187402CA6674}
+      IID 18
+      NAME SND_SEB_SE_BALL_SEPCM_8.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B3026F7-5906-4387-A46E-D157A5C739C6}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_8.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.16392290249435
+      SNAPOFFS 0
+      LENGTH 0.37242630385488
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BAFD80CE-5B41-42CF-A095-5B7F595F464E}
+      IID 19
+      NAME SND_SEB_SE_BALL_SEPCM_9.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25FECC64-1D42-4889-B2A7-DBC5B1527E23}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_BALL_SEPCM_9.wav"
+      >
+    >
+    <ITEM
+      POSITION 13.53634920634923
+      SNAPOFFS 0
+      LENGTH 0.79222222222222
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7993892-03C5-4459-8979-7ED4EA9D5E9B}
+      IID 20
+      NAME SND_SEB_SE_ETC_0_SEPCM_34.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B2F99A4-60F4-459F-806A-EA667E66B014}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_0_SEPCM_34.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.32857142857145
+      SNAPOFFS 0
+      LENGTH 0.54126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C44FA9C6-9357-4386-8708-B23F71C72B7A}
+      IID 21
+      NAME SND_SEB_SE_ETC_0_SEPCM_35.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D78280E-3867-4839-8FB8-70200C5AE65C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_0_SEPCM_35.wav"
+      >
+    >
+    <ITEM
+      POSITION 14.86984126984129
+      SNAPOFFS 0
+      LENGTH 0.52367346938776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54F5F7A7-7DDA-47C4-BE14-64D6D085AF6E}
+      IID 22
+      NAME SND_SEB_SE_ETC_0_SEPCM_36.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2D19EE4-153B-479E-B2D3-767BD9293D3A}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_0_SEPCM_36.wav"
+      >
+    >
+    <ITEM
+      POSITION 15.39351473922905
+      SNAPOFFS 0
+      LENGTH 1.14702947845805
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81175453-A639-4B1C-8032-17A396A04009}
+      IID 23
+      NAME SND_SEB_SE_ETC_0_SEPCM_52.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3A4CBF5-1237-44E3-9E3C-DF29FA983BD3}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_0_SEPCM_52.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.5405442176871
+      SNAPOFFS 0
+      LENGTH 0.44
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA96EB55-710B-44F7-9F17-4F2DCACB7DEC}
+      IID 24
+      NAME SND_SEB_SE_ETC_0_SEPCM_56.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD2D62F2-2141-458B-8675-7BEB3C29E6B9}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_0_SEPCM_56.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.9805442176871
+      SNAPOFFS 0
+      LENGTH 0.63512471655329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {898E813A-500A-4878-A861-3D89BCF8603C}
+      IID 25
+      NAME SND_SEB_SE_ETC_SEPCM_10.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FAB8EEB-D177-457D-A5B0-FE45538DAEFC}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_10.wav"
+      >
+    >
+    <ITEM
+      POSITION 17.61566893424039
+      SNAPOFFS 0
+      LENGTH 1.25596371882086
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {883DC23B-F58F-49F4-94DA-145625C2A0FA}
+      IID 26
+      NAME SND_SEB_SE_ETC_SEPCM_11.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E055C00A-DD84-466C-8601-02A8BA287F49}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_11.wav"
+      >
+    >
+    <ITEM
+      POSITION 18.871632653061248
+      SNAPOFFS 0
+      LENGTH 5.54412698412698
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D249F303-5DFA-4F45-A2D4-4AB60C9A84F9}
+      IID 27
+      NAME SND_SEB_SE_ETC_SEPCM_15.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D981D26C-80DB-4150-B046-AB440A5BAE94}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_15.wav"
+      >
+    >
+    <ITEM
+      POSITION 24.415759637188227
+      SNAPOFFS 0
+      LENGTH 4.01179138321995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DAAF422-9345-4195-BC8A-C964FACFE8FE}
+      IID 28
+      NAME SND_SEB_SE_ETC_SEPCM_16.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBC18F13-11C8-4A03-B768-B741A05C0FA2}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_16.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.427551020408178
+      SNAPOFFS 0
+      LENGTH 0.80816326530612
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A848E085-B281-48E6-913E-F4ED0B5D856A}
+      IID 29
+      NAME SND_SEB_SE_ETC_SEPCM_20.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {603F5A16-C64F-4345-92FC-631CCB7F7AE1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_20.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.235714285714298
+      SNAPOFFS 0
+      LENGTH 0.7330612244898
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {25E48517-21B6-44FD-8994-37DB2F582AE5}
+      IID 30
+      NAME SND_SEB_SE_ETC_SEPCM_21.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FCC9253-4D72-4A82-9404-FAFBBF5C584E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_21.wav"
+      >
+    >
+    <ITEM
+      POSITION 29.968775510204097
+      SNAPOFFS 0
+      LENGTH 0.67619047619048
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EA1BAEA0-DFB8-4538-A343-D1F5800C6E8E}
+      IID 31
+      NAME SND_SEB_SE_ETC_SEPCM_24.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0B04891-9A88-4040-A7A3-41DB6EFD68B6}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_24.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.644965986394578
+      SNAPOFFS 0
+      LENGTH 1.94108843537415
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {269EC3A6-9D3D-45CD-B61A-483F5C0C4842}
+      IID 32
+      NAME SND_SEB_SE_ETC_SEPCM_5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3E2DBA2-3D50-42B7-8FB1-93122CA04CBA}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_5.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.58605442176873
+      SNAPOFFS 0
+      LENGTH 0.10968253968254
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F8D8210-6BE6-44AD-BC22-9CEE6764D3FC}
+      IID 33
+      NAME SND_SEB_SE_ETC_SEPCM_7.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52A7EE12-5514-4631-9E4E-DF985DB61511}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_ETC_SEPCM_7.wav"
+      >
+    >
+    <ITEM
+      POSITION 32.69573696145127
+      SNAPOFFS 0
+      LENGTH 1.32582766439909
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2806877F-6461-4C75-AAAA-95AB5929BAB9}
+      IID 34
+      NAME SND_SEB_SE_JGL_JGL01A_AIF_1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9918A7DA-DC79-4497-A0B8-9453DC92FF0C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_JGL_JGL01A_AIF_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 34.02156462585036
+      SNAPOFFS 0
+      LENGTH 1.54716553287982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6FFD5B13-676B-4C9A-9A0F-BA159F899E18}
+      IID 35
+      NAME SND_SEB_SE_JGL_SE034UP_1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CBCC219-EB41-44DA-AD25-70455BBCF85B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_JGL_SE034UP_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 35.568730158730176
+      SNAPOFFS 0
+      LENGTH 1.98707482993197
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC932206-4A99-4986-B7E8-9632F94840A2}
+      IID 36
+      NAME SND_SEB_SE_JGL_SEPCM_3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E8AB7CAE-18FF-495E-8AE0-6AA4E6911326}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_JGL_SEPCM_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 37.555804988662146
+      SNAPOFFS 0
+      LENGTH 1.74866213151927
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E65A7AE-6C97-4C09-A595-9C9F00C34F81}
+      IID 37
+      NAME SND_SEB_SE_START_SEPCM.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B9A0548-F3EB-4186-8F19-6B5576973EF1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_SE_START_SEPCM.wav"
+      >
+    >
+    <ITEM
+      POSITION 39.304467120181414
+      SNAPOFFS 0
+      LENGTH 2.40761904761905
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B7433CD8-8659-4DE9-B2AD-9DF7BE6DA097}
+      IID 38
+      NAME SND_SEB_YUKA_SEPCM_1_1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD0BB125-6CE1-4BB3-8910-7A0604C7E119}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_YUKA_SEPCM_1_1.wav"
+      >
+    >
+    <ITEM
+      POSITION 41.712086167800464
+      SNAPOFFS 0
+      LENGTH 2.63673469387755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC4EC44C-288A-45CA-9256-F774E055294C}
+      IID 39
+      NAME SND_SEB_YUKA_SEPCM_3_2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {404796C3-CF86-4C7E-B43A-7FB9D647A1AF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_YUKA_SEPCM_3_2.wav"
+      >
+    >
+    <ITEM
+      POSITION 44.348820861678014
+      SNAPOFFS 0
+      LENGTH 1.68
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFCDA418-BB05-468B-A3EF-F049CDAAA888}
+      IID 40
+      NAME SND_SEB_YUKA_SEPCM_5_3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3AE1A8B-4363-4BB9-AC4F-2C0C2E7DA6B1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SEB_YUKA_SEPCM_5_3.wav"
+      >
+    >
+    <ITEM
+      POSITION 46.028820861678014
+      SNAPOFFS 0
+      LENGTH 1.47544217687075
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {298CFBC4-D639-44FF-BCB2-DC1EC1F198CA}
+      IID 41
+      NAME SND_SED_NAR_FALL00.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8C0C583-AE43-4E4F-9FA8-8C6473ADD4CA}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SED_NAR_FALL00.wav"
+      >
+    >
+    <ITEM
+      POSITION 47.504263038548764
+      SNAPOFFS 0
+      LENGTH 2.18070294784581
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E180B250-80D6-4BD0-BDD1-1C2C2CB54EDE}
+      IID 42
+      NAME SND_SED_NAR_GO2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84908E49-6DB5-487A-BA7E-CDADC0B6C997}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SED_NAR_GO2.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.68496598639457
+      SNAPOFFS 0
+      LENGTH 0.9386
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CED888A0-8DCF-4A84-BD79-244310EAC2A2}
+      IID 43
+      NAME SND_SED_NAR_N4_ES.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A7197CB-96EF-43CA-8B2D-473BBB43460E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SED_NAR_N4_ES.wav"
+      >
+    >
+    <ITEM
+      POSITION 50.623565986394574
+      SNAPOFFS 0
+      LENGTH 0.9287
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9050C74C-48D9-40E5-B321-923F95BFBE76}
+      IID 44
+      NAME SND_SED_NAR_OP_TRN.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7E961ED-05B7-478E-B3E5-88B5B25FB035}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SED_NAR_OP_TRN.wav"
+      >
+    >
+    <ITEM
+      POSITION 51.55226598639457
+      SNAPOFFS 0
+      LENGTH 1.650625
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5586BE90-43EE-47E9-BDF9-203AF93DE8DC}
+      IID 45
+      NAME SND_SED_NAR_RAIN2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C32A10CF-AADE-47F9-B3D4-C0FF46A7DAE5}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SED_NAR_RAIN2.wav"
+      >
+    >
+    <ITEM
+      POSITION 53.20289098639457
+      SNAPOFFS 0
+      LENGTH 1.23428571428571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {176B7ECE-91FD-44BC-BFD1-6A1F7609C14E}
+      IID 46
+      NAME SND_SED_NAR_RST5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1AA75CD5-1046-49DD-A3F2-07F08185F99E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\SND_SED_NAR_RST5.wav"
+      >
+    >
+    <ITEM
+      POSITION 54.43717670068028
+      SNAPOFFS 0
+      LENGTH 0.38528344671202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3D0A918-FA30-48A2-B5B0-863A6301AA7B}
+      IID 47
+      NAME unnamed_sample_524.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C88F37C8-06CE-46D7-85D4-90D673472160}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\unnamed_sample_524.wav"
+      >
+    >
+    <ITEM
+      POSITION 54.822460147392306
+      SNAPOFFS 0
+      LENGTH 0.45310657596372
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D63D5100-384C-4E68-A9CC-8537F7205DF5}
+      IID 48
+      NAME unnamed_sample_534.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7EBA9169-EE49-48A3-A9CC-A276F4FD2242}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\unnamed_sample_534.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.27556672335603
+      SNAPOFFS 0
+      LENGTH 0.09356009070295
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A5C4B7E-9329-4A8F-96FB-468AC3B06596}
+      IID 49
+      NAME unnamed_sample_535.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B348DEB8-AECF-4574-AA71-AFE34FB2833B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\allse\unnamed_sample_535.wav"
+      >
+    >
+    <ITEM
+      POSITION 55.36912681405898
+      SNAPOFFS 0
+      LENGTH 2.28569160997732
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {616A6553-09B0-4F4E-98FD-1D6AB09A4D3E}
+      IID 50
+      NAME SFXapplaudb_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {358186C3-E72D-440A-8541-A6EA0BF2ADE1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXapplaudb_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 57.6548184240363
+      SNAPOFFS 0
+      LENGTH 4.28424036281179
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9828C3F-D1C6-4549-B372-CC5D33204A19}
+      IID 51
+      NAME SFXapplaudbbig_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6ECDEADB-0D52-4D2F-96A6-7EAC4D15BF08}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXapplaudbbig_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 61.93905878684809
+      SNAPOFFS 0
+      LENGTH 1.39541950113379
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1267E1C-BE64-4AE4-85AB-6756D54FE2DC}
+      IID 52
+      NAME SFXapplaudbnocl_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4154AF3D-91D8-44E3-91EF-CCE891CB40DF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXapplaudbnocl_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.33447828798188
+      SNAPOFFS 0
+      LENGTH 3.66714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D9F6DE13-9C7F-434B-A2DE-AA1F0D61E5E9}
+      IID 53
+      NAME SFXapplaudbnol_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {228A8146-CDF0-4BFB-8C90-1E2E16279DCC}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXapplaudbnol_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 67.00162114512474
+      SNAPOFFS 0
+      LENGTH 2.85929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E1C5F561-40DE-408B-96C3-C3E4D718B376}
+      IID 54
+      NAME SFXbill_foul_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {690B0C89-7E91-4163-9920-DFF6E212625F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_foul_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 69.86091819727893
+      SNAPOFFS 0
+      LENGTH 2.85929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9FBD03F3-8127-4D84-982E-AF54265BC160}
+      IID 55
+      NAME SFXbill_foul_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97FB909E-2866-4961-B3D2-6928DD445276}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_foul_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 72.72021524943312
+      SNAPOFFS 0
+      LENGTH 7.03512471655329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFC3E305-E853-4943-8D58-D3F271792C49}
+      IID 56
+      NAME SFXbill_lose_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37A5B0E2-4ADE-4D6A-B957-EB23D0C22FBC}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_lose_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 79.75533996598641
+      SNAPOFFS 0
+      LENGTH 7.03512471655329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {274DA232-60B7-47E4-B0E6-8E5EE809A4C5}
+      IID 57
+      NAME SFXbill_lose_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B666EEB-D25B-43B2-8B80-DD1DEBDC79EF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_lose_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 86.79046468253969
+      SNAPOFFS 0
+      LENGTH 3.04750566893424
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2DB7A971-1371-41EF-989C-8B27548B0F9B}
+      IID 58
+      NAME SFXbill_senkou_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE3A7289-513B-4654-9726-0F9C9D0A2CFE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_senkou_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 89.83797035147393
+      SNAPOFFS 0
+      LENGTH 3.04750566893424
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC1545D7-60B7-4AD0-A7DA-70E0648F35B4}
+      IID 59
+      NAME SFXbill_senkou_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE6E42A3-7E05-4361-94CF-5A5B58500E7F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_senkou_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 92.88547602040816
+      SNAPOFFS 0
+      LENGTH 8.02380952380952
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D68FD38-76D0-4B7D-9883-D524E90E23B3}
+      IID 60
+      NAME SFXbill_win_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6320003-201B-4406-A930-88BB5EABFF54}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_win_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 100.90928554421768
+      SNAPOFFS 0
+      LENGTH 8.02380952380952
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E67B42A0-4382-4A93-9F63-77B5DDC9D9C3}
+      IID 61
+      NAME SFXbill_win_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E604200B-F85A-4D63-994E-7626D5D7BD0C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXbill_win_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 108.9330950680272
+      SNAPOFFS 0
+      LENGTH 3.30598639455782
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA41050C-A131-4DC2-89DB-D773ECC034B1}
+      IID 62
+      NAME SFXboob_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9749B71D-7C06-4B41-A811-F25BAFF15C57}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXboob_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.23908146258502
+      SNAPOFFS 0
+      LENGTH 0.29478458049887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B55815D-1DD1-434C-9C94-1A03BEBC2C85}
+      IID 64
+      NAME SFXcushion01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11886F86-9679-4047-9267-59F51647E386}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXcushion01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.53386604308389
+      SNAPOFFS 0
+      LENGTH 0.15353741496599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E6E0C9C-D4A0-48FC-8F7F-F8624FDF1382}
+      IID 65
+      NAME SFXcushion02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B9FD5B6-BF5E-40CC-83E2-3AEA819C2C63}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXcushion02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.68781162131519
+      SNAPOFFS 0
+      LENGTH 0.20965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C36E23E-69AD-4898-90A9-E06F54AFA418}
+      IID 66
+      NAME SFXcushion03_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20D717F8-2656-4F34-9205-F5D4BF69915A}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXcushion03_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.89747148526077
+      SNAPOFFS 0
+      LENGTH 0.15353741496599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CE10199-2D88-4E99-AF1A-C0695590CAE6}
+      IID 68
+      NAME SFXcushion04_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F11074A2-0E59-4D3A-8443-DCBE5A212C3E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXcushion04_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.05100890022676
+      SNAPOFFS 0
+      LENGTH 0.20965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BDF84A31-A066-4D07-99B1-287B1FDD611E}
+      IID 69
+      NAME SFXcushion05_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EAFF9D5-2D13-490B-ACFE-3F73419BE37D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXcushion05_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.26066876417234
+      SNAPOFFS 0
+      LENGTH 0.64503401360544
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19C429CB-5003-49EB-BD1B-208F9D6C23FD}
+      IID 70
+      NAME SFXhit01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62E21AD3-5E8D-4FCF-989C-6CAAFC26C052}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 113.90570277777778
+      SNAPOFFS 0
+      LENGTH 0.67793650793651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A86CD42-7746-4B3B-A4D0-713D2567D873}
+      IID 71
+      NAME SFXhit02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07E00F10-9B88-45C7-A591-D275DCB98433}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 114.58363928571428
+      SNAPOFFS 0
+      LENGTH 0.45027210884354
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {475CC516-B2BC-482B-A80A-BA436D721987}
+      IID 72
+      NAME SFXhit03_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9345905E-397F-424C-B326-25F3304D9707}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit03_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.03391139455782
+      SNAPOFFS 0
+      LENGTH 0.47433106575964
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B77C584-49A6-42A8-B2EC-25BEC575D378}
+      IID 73
+      NAME SFXhit04_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF87D856-4089-4596-8FA6-059D0C7C4315}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit04_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.50824246031746
+      SNAPOFFS 0
+      LENGTH 0.3556462585034
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {653FC53C-F78A-46D8-93FD-FB961B049655}
+      IID 74
+      NAME SFXhit06_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3311BAB9-EEC9-41BA-A971-6ED8E2727CEA}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit06_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.86388871882086
+      SNAPOFFS 0
+      LENGTH 0.18702947845805
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B988AC90-B061-4F5A-829C-7608DE00C791}
+      IID 75
+      NAME SFXhit07_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DD2A7BD-8F29-4F73-A277-3DE35133FE28}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit07_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.0509181972789
+      SNAPOFFS 0
+      LENGTH 0.44859410430839
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47C2307C-F77B-48BF-BE3B-8D0AC74FB3DB}
+      IID 76
+      NAME SFXhit08_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9C1FF49-9057-4C6F-928F-EBE0474D7810}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit08_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.49951230158729
+      SNAPOFFS 0
+      LENGTH 0.21043083900227
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7B239BC4-1B2A-4E20-B6A7-247B7C4A5732}
+      IID 77
+      NAME SFXhit09_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {618BD091-FDF2-455C-9DCE-5FBD2F4B1C52}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXhit09_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.70994314058956
+      SNAPOFFS 0
+      LENGTH 0.58909297052154
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00179ACB-71F6-4758-ABDE-90A70FE816D3}
+      IID 78
+      NAME SFXpoket01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {256CEB3E-5DFC-4435-918A-E4BEF5682CAA}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXpoket01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.29903611111109
+      SNAPOFFS 0
+      LENGTH 0.40238095238095
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C108B640-B0F1-441B-9237-DA54823938C4}
+      IID 79
+      NAME SFXpoket02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6B221B1-8413-4FCC-A71E-2CEACE318F9D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXpoket02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 117.70141706349204
+      SNAPOFFS 0
+      LENGTH 1.2749433106576
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {582B3507-8CD2-457E-A926-92696D5C3936}
+      IID 80
+      NAME SFXshot01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F4E1DDD7-4BAA-4DC3-935F-9E9F45F9BD02}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXshot01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 118.97636037414965
+      SNAPOFFS 0
+      LENGTH 0.62825396825397
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DEE211F5-3314-4F59-A556-26A63F581D15}
+      IID 81
+      NAME SFXshot02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4797533B-F6B1-4096-9D64-1D5A3EC18106}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXshot02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 119.60461434240362
+      SNAPOFFS 0
+      LENGTH 0.20485260770975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90A45C9F-22D4-49F3-8193-068BB46297AC}
+      IID 82
+      NAME SFXshot03_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14A677F7-6390-43FA-99CA-DFA4D48FCFBE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXshot03_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 119.80946695011338
+      SNAPOFFS 0
+      LENGTH 0.85090702947846
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {427606FC-2074-4BFE-8E5B-E1F51726F7A6}
+      IID 83
+      NAME SFXshot04_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0E79754-556C-4F29-9570-DFBB44E2B159}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXshot04_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 120.66037397959184
+      SNAPOFFS 0
+      LENGTH 0.14913832199546
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2FBC6B7C-F7FA-4309-8F1D-F711EB87DF1B}
+      IID 84
+      NAME SFXshot_moresoft_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07D478A8-B771-4DCF-933E-7563C6370BF7}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXshot_moresoft_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 120.8095123015873
+      SNAPOFFS 0
+      LENGTH 0.29165532879819
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C2603C25-401C-431F-9A81-F658088F1779}
+      IID 85
+      NAME SFXshot_soft_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6F58933-07B4-476E-BE22-95C4FFCFAB44}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXshot_soft_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 121.10116763038549
+      SNAPOFFS 0
+      LENGTH 0.28002267573696
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F2D105C9-316B-4C12-87E0-A05CE1E7920A}
+      IID 86
+      NAME SFXshotshift_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27969A24-5474-4A94-9E51-A8A660138B78}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXshotshift_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 121.38119030612245
+      SNAPOFFS 0
+      LENGTH 1.71836734693878
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE730C18-5866-47CE-A53B-B2B3ED13E816}
+      IID 87
+      NAME SFXtoogoodb_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {963D6BD2-0320-4878-A2A1-1FA3ED28DCED}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXtoogoodb_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 123.09955765306123
+      SNAPOFFS 0
+      LENGTH 0.87607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81C91F68-FA80-4D06-8BA9-8AB21C3FAAC5}
+      IID 88
+      NAME SFXballpin_heavy_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48717051-1E12-4CA2-B105-5C5FDEE937D2}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXballpin_heavy_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 123.9756347505669
+      SNAPOFFS 0
+      LENGTH 0.60541950113379
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {020A4953-40F9-47CD-B27D-4F41D20A869A}
+      IID 89
+      NAME SFXballpin_light_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {678E4143-B370-4C5A-AF18-D4752D286265}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXballpin_light_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 124.58105425170069
+      SNAPOFFS 0
+      LENGTH 0.92818594104308
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46DC018B-2107-4F7F-BD9A-C7E08DB337C0}
+      IID 90
+      NAME SFXballpin_normal_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7842F05C-6F45-4239-80B5-2C070EC2B132}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXballpin_normal_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 125.50924019274377
+      SNAPOFFS 0
+      LENGTH 2.6107029478458
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5AE5F5D6-EB4C-4B1C-AB81-C8788754A34D}
+      IID 91
+      NAME SFXbowl_miss_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FEC4D1C-C239-4F7B-ACAC-75CC34812635}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_miss_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 128.11994314058958
+      SNAPOFFS 0
+      LENGTH 2.6107029478458
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A86E9915-271E-4B86-A1EB-4FE7E2836C1D}
+      IID 92
+      NAME SFXbowl_miss_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D5C747E-6138-4D82-9523-90B0D61FAFC5}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_miss_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 130.73064608843538
+      SNAPOFFS 0
+      LENGTH 3.59823129251701
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3B30A46-0220-42A2-B3D1-D746F3D815C1}
+      IID 93
+      NAME SFXbowl_normal_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA6CEFCB-E6AA-4A7A-A14E-90982C9A37DE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_normal_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 134.32887738095238
+      SNAPOFFS 0
+      LENGTH 3.59823129251701
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A752A3B6-8CE7-4C94-878B-503C95444D0B}
+      IID 94
+      NAME SFXbowl_normal_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0368701-EAFF-4DB7-96C5-5B6C6B587350}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_normal_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 137.92710867346938
+      SNAPOFFS 0
+      LENGTH 9.10834467120181
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C9F9EA9-2614-473E-A973-4A5BD177615E}
+      IID 95
+      NAME SFXbowl_perfect_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0330368B-546A-444E-841F-B0415EAFEDEB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_perfect_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 147.0354533446712
+      SNAPOFFS 0
+      LENGTH 9.10834467120181
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F18BBDF-A6A6-4508-8092-8D3BC81ECA94}
+      IID 96
+      NAME SFXbowl_perfect_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A84B6C1-BD7D-4B41-A9B5-2C149F9805F9}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_perfect_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 156.14379801587302
+      SNAPOFFS 0
+      LENGTH 4.18857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A5BAD4E-2396-4856-966D-CE55480B1F2B}
+      IID 97
+      NAME SFXbowl_spare_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D69FB679-1472-48BB-A931-F508F4FD999D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_spare_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 160.33236944444445
+      SNAPOFFS 0
+      LENGTH 4.18857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9F17E4E5-E96D-4D8E-B67C-D39AFC336CF5}
+      IID 98
+      NAME SFXbowl_spare_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A4AACB59-0874-413C-AE2C-5403AB81D973}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_spare_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 164.5209408730159
+      SNAPOFFS 0
+      LENGTH 6.27657596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B30FDA7-2A74-4FC2-A60F-5B78DB75AEF3}
+      IID 99
+      NAME SFXbowl_strike_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F53E66D-17C6-4B2A-9297-9AD43FA71ACE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_strike_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 170.7975168367347
+      SNAPOFFS 0
+      LENGTH 6.27657596371882
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC17E247-617A-4994-B5DA-F16F3B620923}
+      IID 100
+      NAME SFXbowl_strike_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24B3C34A-87AF-424C-9305-F523429011E0}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_strike_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 177.0740928004535
+      SNAPOFFS 0
+      LENGTH 4.51489795918367
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD2E1FEF-1F75-4465-B8F3-392CF7238172}
+      IID 101
+      NAME SFXbowl_turkey_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9870888-DD40-4E59-91FE-892DF11441BD}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_turkey_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 181.58899075963717
+      SNAPOFFS 0
+      LENGTH 4.51489795918367
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE639651-2303-4153-8960-75FCDA483B02}
+      IID 102
+      NAME SFXbowl_turkey_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {72909F04-68F0-4B28-A5B7-7CBE45A3E330}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXbowl_turkey_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 186.10388871882083
+      SNAPOFFS 0
+      LENGTH 2.91020408163265
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C6E55C7-3233-4B2A-8689-F1B812B45F39}
+      IID 103
+      NAME SFXfirework1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D23F9E0-96D0-443C-A042-9330CF9EC4DC}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXfirework1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 189.01409280045348
+      SNAPOFFS 0
+      LENGTH 3.27714285714286
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBDF1821-A6AA-4903-8729-FF050A6B002C}
+      IID 104
+      NAME SFXfirework2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26BE440F-E05F-40C0-885D-46B86D618BCC}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXfirework2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 192.29123565759633
+      SNAPOFFS 0
+      LENGTH 0.90056689342404
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC27738F-0A59-4754-ADD1-FE6E0106BD16}
+      IID 105
+      NAME SFXgutter_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78824017-36FC-4026-BF36-7543133D58CF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXgutter_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 193.19180255102037
+      SNAPOFFS 0
+      LENGTH 0.70430839002268
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {230C7DEF-B762-4FAB-92C9-9F151494A4F1}
+      IID 106
+      NAME SFXnyuinyui_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E7A6D2E-6628-4AA7-B788-900A0F7A3B63}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXnyuinyui_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 193.89611094104305
+      SNAPOFFS 0
+      LENGTH 0.98011337868481
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5993D4A9-76BC-48F3-A1EC-3149C878D92A}
+      IID 107
+      NAME SFXpinfloor_heavy_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97E5365C-913F-403E-836F-8B8C23001F0B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinfloor_heavy_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 194.87622431972787
+      SNAPOFFS 0
+      LENGTH 0.2672335600907
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B973E578-D896-4D30-A74E-B534D4C89F35}
+      IID 108
+      NAME SFXpinfloor_light_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {893A2323-8AD3-4538-B124-A8A7F0C1BC44}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinfloor_light_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 195.14345787981856
+      SNAPOFFS 0
+      LENGTH 0.37689342403628
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B54830C5-822B-4FD1-A63C-205D215509DE}
+      IID 109
+      NAME SFXpinfloor_normal02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3BBCBEE-6092-442F-AE45-C09A0734F16E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinfloor_normal02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 195.52035130385482
+      SNAPOFFS 0
+      LENGTH 0.38097505668934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01EA5B00-A638-4390-B127-28B96D2BF043}
+      IID 110
+      NAME SFXpinfloor_normal_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47F65118-4019-4C13-9545-B984DF005D87}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinfloor_normal_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 195.90132636054418
+      SNAPOFFS 0
+      LENGTH 0.56172335600907
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F084AA6-6FB9-407F-8BEA-FE1A27FF64A6}
+      IID 111
+      NAME SFXpinpin01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D6BF94B-4A60-4FE8-9F32-817ED773ACF1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinpin01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 196.46304971655326
+      SNAPOFFS 0
+      LENGTH 0.36179138321995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F7350E3-6DC5-47F1-A1FA-AC730CF6DF31}
+      IID 112
+      NAME SFXpinpin02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63E8B898-E3A8-4587-9F20-7D788FF9490F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinpin02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 196.8248410997732
+      SNAPOFFS 0
+      LENGTH 0.38931972789116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3A28EE4F-FAAC-4622-8A85-A332F6B7D651}
+      IID 113
+      NAME SFXpinpin03_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0A9B477-42AB-4B09-957C-32493CF5B2B7}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinpin03_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 197.21416082766436
+      SNAPOFFS 0
+      LENGTH 0.39011337868481
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {70D4D5D4-FB78-4091-B760-A1DC1BF85E02}
+      IID 114
+      NAME SFXpinpin04_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5134C296-B271-4D37-B4C8-78706A34446D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinpin04_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 197.60427420634917
+      SNAPOFFS 0
+      LENGTH 0.45997732426304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {88AFF085-C053-4F68-BE2C-A0E1F1280EC2}
+      IID 115
+      NAME SFXpinpin05_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6C59126-913B-4F8D-97FA-D8836C54EACD}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinpin05_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 198.0642515306122
+      SNAPOFFS 0
+      LENGTH 0.47224489795918
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3CB24B74-3A75-4F71-AB6B-C82F4482C094}
+      IID 116
+      NAME SFXpinpin06_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4334535D-1C91-483A-A3B9-7D8D3D5F8924}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinpin06_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 198.53649642857138
+      SNAPOFFS 0
+      LENGTH 0.69532879818594
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {53F6834E-FABE-4C30-A7FC-CD6E77B41E43}
+      IID 117
+      NAME SFXpinpinhigh_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {039439AB-6993-44FB-AAE9-F605286BDDA9}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXpinpinhigh_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 199.2318252267573
+      SNAPOFFS 0
+      LENGTH 2.51274376417234
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7BF7CD03-4817-48D6-98B5-A3799012773A}
+      IID 118
+      NAME SFXroll_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {84EA6F02-EAAD-474E-9191-1E26E02776D8}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXroll_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 201.74456899092965
+      SNAPOFFS 0
+      LENGTH 0.36333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1150B2D-6001-4C23-BA89-198FD438B5C2}
+      IID 119
+      NAME SFXscorechange_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB06339B-08EC-4BF4-92FF-103D81F8828E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXscorechange_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 202.107902324263
+      SNAPOFFS 0
+      LENGTH 1.03802721088435
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9306B07A-91CC-4D23-80D2-EC2062D988D2}
+      IID 121
+      NAME SFXthrow01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D43E8078-3DBA-4BA4-B684-E949F5B49DF1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXthrow01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.14592953514733
+      SNAPOFFS 0
+      LENGTH 0.26795918367347
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {03AE6838-1DB6-4B2C-B7C6-4BEB83B2AABF}
+      IID 122
+      NAME SFXtick_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A0DE423-E849-416C-A765-A4BE3E38CEFE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXtick_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.4138887188208
+      SNAPOFFS 0
+      LENGTH 0.24716553287982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {450F7C48-D6B8-4A0E-99BE-0AC4B91B9DD5}
+      IID 123
+      NAME SFXtock_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BBA0CEA-24CB-491B-BC9F-66B01910CF3E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bowl\SFXtock_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.66105425170062
+      SNAPOFFS 0
+      LENGTH 1.7915873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BEAB99C-936E-4B5A-868E-2D1A3623B0E1}
+      IID 124
+      NAME SFX1up_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA8EB2D9-862F-48E0-8BB4-4674EB23EEAF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFX1up_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 205.45264155328792
+      SNAPOFFS 0
+      LENGTH 0.27310657596372
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1D75A3C-4E88-44A9-B39D-0A98D510E9AE}
+      IID 125
+      NAME SFXball_bumpbig_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43113971-4796-47C5-BA5C-2D84B3789803}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXball_bumpbig_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 205.72574812925163
+      SNAPOFFS 0
+      LENGTH 1.81950113378685
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0EA006D-2E8E-40DE-8DC4-14A8336271B1}
+      IID 126
+      NAME SFXbirdc_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50686CFB-BB78-4CFB-937E-D83DC9910D84}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXbirdc_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 207.54524926303847
+      SNAPOFFS 0
+      LENGTH 5.80929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51B565B8-5E9B-4D0A-BF85-714FC55B25F5}
+      IID 128
+      NAME SFXbirdc_loop_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D87B4EA-EE4C-43B3-8815-3A5335FBF935}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXbirdc_loop_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 213.35454631519266
+      SNAPOFFS 0
+      LENGTH 2.68666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13C402D5-85ED-461B-AC75-3F5D4E84FDE1}
+      IID 130
+      NAME SFXbomb_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D5E44A8-5AAC-408D-918B-C87D517E1085}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXbomb_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.04121298185933
+      SNAPOFFS 0
+      LENGTH 0.22068027210884
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B0886D3B-F941-4E0C-9F52-DDE947DCB01B}
+      IID 131
+      NAME SFXcamera_switch1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18524AA9-BF11-4350-8B22-0145AC0F9ECC}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXcamera_switch1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.26189325396817
+      SNAPOFFS 0
+      LENGTH 0.28816326530612
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A7BAECB4-2B6F-470C-9525-BA458B68D0D3}
+      IID 132
+      NAME SFXcamera_switch2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4E13CE95-FB66-499E-8055-8B4614443257}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXcamera_switch2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 216.55005651927428
+      SNAPOFFS 0
+      LENGTH 0.85478458049887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF7AD953-C1D9-4720-A773-AEADCAFFC744}
+      IID 133
+      NAME SFXcancell_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {695B9228-CD30-4670-B68D-73F8053A1DA2}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXcancell_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 217.40484109977314
+      SNAPOFFS 0
+      LENGTH 0.7808843537415
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8A41981-52EA-4F7E-BCF8-24777FFBC87F}
+      IID 134
+      NAME SFXcomdecision_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF34D8D5-FA65-43AC-A6FB-518E1F40E87B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXcomdecision_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 219.03953497732417
+      SNAPOFFS 0
+      LENGTH 2.4181179138322
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D142F70A-DF39-4D89-A42D-723563797AFF}
+      IID 135
+      NAME SFXfinishfly2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EEC0264-CF20-4769-B402-AFE36E5E81FB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXfinishfly2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 221.45765289115636
+      SNAPOFFS 0
+      LENGTH 1.23548752834467
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {728C0EBF-2B26-4CE8-B0D2-99E701B10713}
+      IID 137
+      NAME SFXgauge4_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1449E55D-2C26-4C1D-A21E-CF0388B1F33E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXgauge4_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 222.69314041950102
+      SNAPOFFS 0
+      LENGTH 1.99374149659864
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94A6AE72-46E3-48E3-8E3A-0F653805DB95}
+      IID 138
+      NAME SFXpower1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A3101CA-CBB2-4240-953B-9082AA4DC378}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXpower1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 224.68688191609965
+      SNAPOFFS 0
+      LENGTH 1.03235827664399
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6805413D-B0AC-4FED-A85A-38637E23AB33}
+      IID 139
+      NAME SFXpower2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58E1B128-1AC7-45E2-8822-3597BC573CCD}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXpower2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.71924019274365
+      SNAPOFFS 0
+      LENGTH 1.36251700680272
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C536BA63-858F-45F9-B75D-D0A727CCCBFD}
+      IID 140
+      NAME SFXpowerscale1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {96B1AA06-562F-42F1-AC15-7D2A6064FC98}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXpowerscale1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 227.0817571995464
+      SNAPOFFS 0
+      LENGTH 0.87875283446712
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FAEF423B-779A-4778-8C2F-6FEA7AEF40AF}
+      IID 141
+      NAME SFXpowerscale2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EBE77A7-5D57-4D7A-BFCB-F495801EA835}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXpowerscale2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 227.9605100340135
+      SNAPOFFS 0
+      LENGTH 0.31294784580499
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BD99E1D-900D-4CB5-9B5F-DEF73AF18EBD}
+      IID 142
+      NAME SFXshot_power_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDFB04B3-5B76-42A9-9233-4B45EF89FB6B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXshot_power_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 228.2734578798185
+      SNAPOFFS 0
+      LENGTH 0.95079365079365
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CE94357-B870-427C-8910-8B2950640D45}
+      IID 143
+      NAME SFXtapecut_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79644B3F-874A-4CB6-91D3-72153F1FD4CE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\comn\SFXtapecut_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 229.22425153061215
+      SNAPOFFS 0
+      LENGTH 1.26335600907029
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C488F8F6-3388-44BF-84DF-5AC3DB8CE72E}
+      IID 144
+      NAME SFXcharge_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {321D4446-7B56-437D-AFE0-CD662DEE0E2A}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXcharge_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 230.48760753968244
+      SNAPOFFS 0
+      LENGTH 0.5556462585034
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3930B33A-8C5F-4399-9DEE-75AF68ED1394}
+      IID 145
+      NAME SFXdoorclose_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C045346-9BDB-4A1C-A735-11608E6EB1F3}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXdoorclose_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 231.04325379818584
+      SNAPOFFS 0
+      LENGTH 1.04195011337868
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DEBD57EF-19AB-4231-A11D-E1CCAB8C02A2}
+      IID 146
+      NAME SFXdooropen_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCA038FD-99AA-4CAC-8748-4EDD0977972E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXdooropen_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 232.08520391156452
+      SNAPOFFS 0
+      LENGTH 0.99918367346939
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {258F70F4-18BC-40F8-B34E-54AFA14B53F0}
+      IID 147
+      NAME SFXdropstone_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {38D822B4-7935-481F-BC6E-816ACC20077E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXdropstone_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 233.0843875850339
+      SNAPOFFS 0
+      LENGTH 2.6471201814059
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68C89D15-B7DD-4A88-B29D-C64F91DB9927}
+      IID 148
+      NAME SFXfly1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5CC68A77-BF5C-40FF-83D7-136E0ED146A0}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXfly1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 235.73150776643982
+      SNAPOFFS 0
+      LENGTH 1.14310657596372
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9FC108B9-0DBC-40A1-BD09-508A6B7681E2}
+      IID 149
+      NAME SFXheavydrope_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B71EA8F-EE17-4B9F-8510-A8ECABF8E509}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXheavydrope_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 236.87461434240353
+      SNAPOFFS 0
+      LENGTH 0.3508843537415
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D15A56E-01DC-4D98-9326-1581EE24A450}
+      IID 150
+      NAME SFXknock1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26E5E161-F487-4A61-B6C0-6FD22F336AFB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXknock1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.22549869614502
+      SNAPOFFS 0
+      LENGTH 0.46
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0CC54675-BC6D-446C-AD72-0BC83B283858}
+      IID 151
+      NAME SFXopen_c_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5354331-DB7E-49A7-B159-135D7F9F1218}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXopen_c_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.68683656462576
+      SNAPOFFS 0
+      LENGTH 1.03240362811791
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15AE33E8-4711-4FD3-AA6D-80DDFF9E98AD}
+      IID 153
+      NAME SFXsit_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47433B84-881B-4190-8B24-88CB82BB87E9}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXsit_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 238.71924019274368
+      SNAPOFFS 0
+      LENGTH 0.68242630385488
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BC4051B-CB4C-4A35-B6CA-3238B5D51AF8}
+      IID 154
+      NAME SFXbigpunch_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85DD233A-A599-4C1D-B574-18AF72A8BAB2}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXbigpunch_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 239.40166649659855
+      SNAPOFFS 0
+      LENGTH 0.4109977324263
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24C6A4A1-8D42-46B1-AEAD-F66993A7D508}
+      IID 155
+      NAME SFXboxdrop_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AA5DB95-5D4D-4763-8363-C494B7948C42}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXboxdrop_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 239.81266422902485
+      SNAPOFFS 0
+      LENGTH 5.80439909297052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0132C622-1074-4A69-9DC2-88D30A0C50AB}
+      IID 156
+      NAME SFXfight_win_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6111E06E-B0E2-409E-99D4-A89491CA0C67}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXfight_win_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 245.61706332199537
+      SNAPOFFS 0
+      LENGTH 5.80439909297052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E294A87D-2FEA-4E7E-9B1E-A188413FEF02}
+      IID 157
+      NAME SFXfight_win_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E154354-6F51-4697-9EE5-5CB8A6DFBE93}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXfight_win_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 251.4214624149659
+      SNAPOFFS 0
+      LENGTH 1.43947845804989
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7087D6BD-21D4-4372-9935-50EABCBC62AE}
+      IID 158
+      NAME SFXgong_bell_a_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {42F5AC6E-226E-4F36-AA3A-0E54C6209C85}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXgong_bell_a_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 252.86094087301578
+      SNAPOFFS 0
+      LENGTH 0.98478458049887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B247B19-58C5-4806-8B82-A1397F2E7758}
+      IID 159
+      NAME SFXitemboxbreak_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7625B00B-DA80-4A37-9C52-0ADFF9DDF4C0}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXitemboxbreak_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 253.84572545351466
+      SNAPOFFS 0
+      LENGTH 1.11965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E6906F0-1140-4C95-8148-D7F7CC9674B8}
+      IID 160
+      NAME SFXitemboxbroke_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F353F74E-D1DF-48ED-A97D-852AC50B3B31}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXitemboxbroke_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 254.96538531746023
+      SNAPOFFS 0
+      LENGTH 0.29
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DAF3E8D-E9DA-48C5-92BA-9FCC4C6737B3}
+      IID 161
+      NAME SFXpunch04_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66BE5D3A-D7E8-47F8-ACCE-22C7D221904F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXpunch04_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 255.25538531746022
+      SNAPOFFS 0
+      LENGTH 0.30167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B18C5A2D-425F-4E9E-9D90-6BA1E72EA871}
+      IID 162
+      NAME SFXpunch05_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27916009-5E3E-4543-A688-291D14B0BA04}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXpunch05_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 255.55706332199537
+      SNAPOFFS 0
+      LENGTH 0.28698412698413
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2186FD3-CDFC-4DDA-B7CF-3064955A1955}
+      IID 163
+      NAME SFXpunch06_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {349FB4E1-2EDC-48F5-9D6F-C4D9382FCC3E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXpunch06_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 255.8440474489795
+      SNAPOFFS 0
+      LENGTH 0.33834467120181
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2ADDC52E-C950-42E6-ADAC-5D9AD83FC53C}
+      IID 164
+      NAME SFXpunch07_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4A77558-A773-4B1D-88E8-D7F3B33AD5A0}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXpunch07_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 256.1823921201813
+      SNAPOFFS 0
+      LENGTH 0.27333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07EBAF76-91EA-4753-9F50-1818873BC99E}
+      IID 165
+      NAME SFXpunch08_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3879110-E413-4478-8907-CFDBAA493552}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXpunch08_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 256.4557254535146
+      SNAPOFFS 0
+      LENGTH 0.73666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D70FA239-1C2A-446A-A989-732D925AB564}
+      IID 166
+      NAME SFXpunch_longbig01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {255E0D0A-CAA8-4806-87AA-0185ED512D5F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXpunch_longbig01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 257.1923921201813
+      SNAPOFFS 0
+      LENGTH 4.24063492063492
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E71B9A61-B8BD-4844-A3BA-9B656026E311}
+      IID 167
+      NAME SFXspinpunch_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {209321ED-51D1-452C-A5AB-D8D1BF1675F8}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXspinpunch_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 261.4330270408162
+      SNAPOFFS 0
+      LENGTH 1.15904761904762
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B752D4E5-4728-4877-89EF-60BDA12DD9D2}
+      IID 168
+      NAME SFXspring02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6305C321-4E51-4537-BF07-347057AC13A6}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXspring02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 262.59207465986384
+      SNAPOFFS 0
+      LENGTH 1.06777777777778
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94CECA3B-4EAE-41DC-A79F-A4344D5CA4FB}
+      IID 169
+      NAME SFXstar_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {991FB544-2EDE-478E-B690-6D9039A8AC16}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXstar_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 263.65985243764163
+      SNAPOFFS 0
+      LENGTH 0.27210884353741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5FADE0E1-EA38-4458-BF4C-69D153998A8A}
+      IID 170
+      NAME SFXswing01_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97ABC12F-CDCA-42EB-BEC5-E9E5E8AC6FE1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\fight\SFXswing01_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 263.93196128117904
+      SNAPOFFS 0
+      LENGTH 2.06104308390023
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29DAA25F-0774-49D8-920D-90638EA1312E}
+      IID 171
+      NAME SFXafterob_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFEC39F0-9C4D-4D28-A46D-23F2ED76F7FB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXafterob_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 265.9930043650793
+      SNAPOFFS 0
+      LENGTH 3.11002267573696
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BCEE15D-2E42-404B-B149-CB6FCA1E60CD}
+      IID 172
+      NAME SFXapplaud_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1B27AE1-AFFE-4E8A-8960-F458062CF526}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXapplaud_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 269.10302704081624
+      SNAPOFFS 0
+      LENGTH 4.15433106575964
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD10D3C2-4656-4657-B04D-4D0E0BF5FC2F}
+      IID 173
+      NAME SFXapplaud_big_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74B01312-AF84-430A-B4BC-363759BA86BD}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXapplaud_big_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 273.2573581065759
+      SNAPOFFS 0
+      LENGTH 7.17519274376417
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CA83C70-8985-467B-BF91-769F5E81BAAB}
+      IID 174
+      NAME SFXcheer_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9318A796-5210-4DD0-B444-8325ABF86F9C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXcheer_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 280.4325508503401
+      SNAPOFFS 0
+      LENGTH 0.57453514739229
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D2A8F9D-2E49-4C78-A4D1-875585ADB41A}
+      IID 175
+      NAME SFXflag_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF2FAE7E-810F-447E-900F-219C60EB1FE3}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXflag_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 281.00708599773236
+      SNAPOFFS 0
+      LENGTH 6.42167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3EE8865D-9594-4AA0-A1FC-FA098D9FC583}
+      IID 176
+      NAME SFXgolf_birdie_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6587EAF8-8BCF-4A53-816E-8948EB28F7B9}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_birdie_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 287.4287640022675
+      SNAPOFFS 0
+      LENGTH 6.42167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {04AC34FC-4BA5-4FF9-A363-5831048A7B86}
+      IID 177
+      NAME SFXgolf_birdie_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2ECA2FB9-D17F-4D8C-AA1D-D7323692F509}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_birdie_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 293.8504420068026
+      SNAPOFFS 0
+      LENGTH 3.73151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18F1524D-E4D6-4C47-968F-A2F97D52F376}
+      IID 178
+      NAME SFXgolf_bogie_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83571DAF-D358-41C5-9D74-F00D326E718F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_bogie_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 297.581961281179
+      SNAPOFFS 0
+      LENGTH 3.73151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D69E697-7E0D-4E20-8EDD-0CFF79B39CFA}
+      IID 179
+      NAME SFXgolf_bogie_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D093A77B-B582-41D6-B4CD-19525CE79182}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_bogie_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 301.31348055555543
+      SNAPOFFS 0
+      LENGTH 5.17358276643991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {642E9F9E-77F7-4DEC-90C9-B92305F7BEC3}
+      IID 180
+      NAME SFXgolf_giveup1_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBBC9E7E-FFB0-404A-ABB6-B2A063EE9966}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_giveup1_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 306.4870633219953
+      SNAPOFFS 0
+      LENGTH 5.17358276643991
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8AACBAB3-B490-4962-8691-C1871EA726C8}
+      IID 181
+      NAME SFXgolf_giveup1_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7DF7BE8-9077-4F86-8D14-3A3D34933E4C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_giveup1_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 311.6606460884352
+      SNAPOFFS 0
+      LENGTH 9.07308390022676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {92E150D1-42E2-4F0A-951E-9D4C18F35416}
+      IID 182
+      NAME SFXgolf_holein1_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87A22C63-C11B-4211-AAE3-51ACCFE81482}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_holein1_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 320.733729988662
+      SNAPOFFS 0
+      LENGTH 9.07308390022676
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {059A92F2-CB3B-4BE7-A652-CB5270533CBB}
+      IID 183
+      NAME SFXgolf_holein1_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {140302AC-4132-41E2-BBA7-45913F584728}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_holein1_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 329.80681388888877
+      SNAPOFFS 0
+      LENGTH 3.52079365079365
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8FC997A5-D252-450E-A67E-E3A8FDEC7B83}
+      IID 184
+      NAME SFXgolf_ob_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F61AD97-9BCD-494F-8E82-CBF51A77183D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_ob_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 333.32760753968245
+      SNAPOFFS 0
+      LENGTH 3.52079365079365
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D64B9B4-53ED-4C4C-930F-41CCF1400F58}
+      IID 185
+      NAME SFXgolf_ob_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54B1A0C6-0899-457F-8891-DE8820E23591}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_ob_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 336.8484011904761
+      SNAPOFFS 0
+      LENGTH 3.57131519274376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {42466D19-7D99-4F4D-93F4-C2277BFC2C06}
+      IID 186
+      NAME SFXgolf_par_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70C0BF4D-54EA-4161-8A0D-DBBCFD61BF8E}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_par_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 340.4197163832199
+      SNAPOFFS 0
+      LENGTH 3.57131519274376
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5CDD886-52A6-409C-B318-C5256586C318}
+      IID 187
+      NAME SFXgolf_par_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58F9A311-ABEF-4E40-A2AB-87DF0154A892}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXgolf_par_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 343.9910315759637
+      SNAPOFFS 0
+      LENGTH 0.53469387755102
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA0F2B0F-6D2B-4027-8998-CA3EBABA1466}
+      IID 188
+      NAME SFXin1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6616603-7701-407D-A2EC-4DF19ECC66FB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXin1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 344.5257254535147
+      SNAPOFFS 0
+      LENGTH 0.23875283446712
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {57EA74A0-AF6A-4F25-8D4D-44A5AD9AF3A2}
+      IID 189
+      NAME SFXlawn_a_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A1C2503-37D4-41D5-8AAF-CA9BEC17CEB4}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXlawn_a_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 344.76447828798183
+      SNAPOFFS 0
+      LENGTH 0.22
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9C91801-92A4-4C88-B2DE-DBE3EF3930EA}
+      IID 190
+      NAME SFXlawn_b_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9D07589-DACF-4CDF-A290-21062293C1B8}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXlawn_b_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 344.98447828798186
+      SNAPOFFS 0
+      LENGTH 0.11036281179138
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DA23D174-F0CC-4228-ABD0-542F7BF3BB9E}
+      IID 191
+      NAME SFXputter_normal_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64EABD2A-83A8-433C-924F-E0AD13FF88D0}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXputter_normal_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 345.09484109977325
+      SNAPOFFS 0
+      LENGTH 0.18802721088435
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BC57923E-6412-468E-9F2B-7856995CF4E9}
+      IID 192
+      NAME SFXputter_soft_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F29BCCEF-B3EE-468E-931B-F87F8F4CB456}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXputter_soft_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 345.2828683106576
+      SNAPOFFS 0
+      LENGTH 0.73043083900227
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3439C2CA-CEB8-4FE5-82A7-D2E5C85B1279}
+      IID 193
+      NAME SFXswish_b_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1E32ADF-929C-4585-A583-CDC4180EF92B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXswish_b_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 346.0132991496599
+      SNAPOFFS 0
+      LENGTH 0.43605442176871
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C9B7BE4-4559-4F50-8F1E-6BA6EF99DB82}
+      IID 194
+      NAME SFXswisha_a_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D6F6FC0-5C0D-4D9C-B0E6-A0A9281E3D37}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXswisha_a_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 346.44935357142856
+      SNAPOFFS 0
+      LENGTH 1.61297052154195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CD1632B-43EC-4F41-A85E-954CC1109E9C}
+      IID 195
+      NAME SFXtoogood1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C1D96DA-54BB-4DE1-80EB-595B568D2AEE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXtoogood1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 348.0623240929705
+      SNAPOFFS 0
+      LENGTH 2.07501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F1B4C75-096D-4EE3-90ED-D9055784BFF2}
+      IID 196
+      NAME SFXtoogood2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {971886B1-628B-437E-AD2F-563414B4EF9D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXtoogood2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 350.137335430839
+      SNAPOFFS 0
+      LENGTH 1.28945578231293
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B2ECBFD-F166-4669-B6FD-E6DC14CDB8A4}
+      IID 197
+      NAME SFXbanana_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1430648B-7515-4B81-93ED-BF693C127FB7}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXbanana_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 351.42679121315194
+      SNAPOFFS 0
+      LENGTH 0.26231292517007
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DD4FC8B-CB33-4A7A-A4C1-3926AF637EFB}
+      IID 198
+      NAME SFXboxdrop_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {081F052B-B231-4DC0-8EA0-575A890D22C4}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXboxdrop_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 351.689104138322
+      SNAPOFFS 0
+      LENGTH 0.57528344671202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16750BA2-5833-4932-8321-11A9E1B393E3}
+      IID 199
+      NAME SFXbrake_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDE96F72-0C82-47E1-99BC-6F532B26C10A}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXbrake_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 352.26438758503406
+      SNAPOFFS 0
+      LENGTH 0.49197278911565
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A1DC502-C645-4F84-AF4E-AF807339339A}
+      IID 200
+      NAME SFXcure_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6DD6DAA-38BD-4471-81C4-2FFC0E7E8C31}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXcure_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 352.7563603741497
+      SNAPOFFS 0
+      LENGTH 1.51108843537415
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A37A5546-75BF-4DBE-9170-6DFA2A75A203}
+      IID 201
+      NAME SFXdash_a_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A229D373-1460-450D-8EFC-D3ABE880B6D3}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXdash_a_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 354.2674488095239
+      SNAPOFFS 0
+      LENGTH 1.40040816326531
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2802CEC0-9B67-43F3-A2FC-E3FFA3A2B185}
+      IID 202
+      NAME SFXdash_b_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A629DF7-45E2-484C-B8F1-15721C12E721}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXdash_b_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 355.6678569727892
+      SNAPOFFS 0
+      LENGTH 1.80798185941043
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {527FADFE-7822-4F00-AF24-DF115946E810}
+      IID 203
+      NAME SFXhit_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E37D4B5-F750-48B8-9254-6E14D182BB59}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXhit_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 357.4758388321996
+      SNAPOFFS 0
+      LENGTH 3.26097505668934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD6DDA3E-09D1-4CD1-8AD0-4C10A9072C09}
+      IID 204
+      NAME SFXracelast_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8136D18E-3B4B-4ABE-9CCC-58ACC260774C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXracelast_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 360.73681388888895
+      SNAPOFFS 0
+      LENGTH 3.26097505668934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8484596A-AF57-4B2F-8C82-61B384212D42}
+      IID 205
+      NAME SFXracelast_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7586BB1E-C2FA-4271-BB59-D1CFEC1CA0A5}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXracelast_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 363.9977889455783
+      SNAPOFFS 0
+      LENGTH 6.34004535147392
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62708A4C-186D-4F4C-AA3F-26890CECD8B1}
+      IID 206
+      NAME SFXracetop_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D7D1BC1-AE58-4104-BCD3-9E8E11CFB8D8}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXracetop_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 370.3378342970522
+      SNAPOFFS 0
+      LENGTH 6.34004535147392
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D9AB2F4-04E3-4171-91C4-A69EF51596FB}
+      IID 207
+      NAME SFXracetop_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90E84F20-42BA-4FFF-8D25-49A7CD519D20}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXracetop_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 376.67787964852613
+      SNAPOFFS 0
+      LENGTH 1.18
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5D8C5E57-8FB9-4A58-81FC-8DD239627562}
+      IID 208
+      NAME SFXreverse_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E681F24-6C1B-4495-ABB4-E1068A316D8C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXreverse_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 377.85787964852614
+      SNAPOFFS 0
+      LENGTH 1.14643990929705
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7181E11C-D80D-429C-90CE-663E5CC29D76}
+      IID 209
+      NAME SFXsignal1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E943A4A5-D62D-4867-9B8A-C023A4385784}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXsignal1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 379.0043195578232
+      SNAPOFFS 0
+      LENGTH 1.45442176870748
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA779A20-39BB-4C4F-8B4E-C9416AFB4DD5}
+      IID 210
+      NAME SFXsignal2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B20E065-A99C-4483-A882-D66C9FBFF77A}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXsignal2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 380.4587413265307
+      SNAPOFFS 0
+      LENGTH 0.14501133786848
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9AD45D83-2244-4345-9083-C7A22AAE4816}
+      IID 211
+      NAME SFXsignal_a_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8819DDD4-014F-40D3-8FB1-AC8F1E1F1FEF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXsignal_a_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 380.60375266439917
+      SNAPOFFS 0
+      LENGTH 0.8490022675737
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {438900B7-E209-4717-B5BA-474F31C9F341}
+      IID 212
+      NAME SFXthrow_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E3A2ECD-207F-43C5-B721-72075EDD42CC}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXthrow_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 381.4527549319729
+      SNAPOFFS 0
+      LENGTH 2.01034013605442
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CC734A5E-8C09-4FDB-8DFF-1DFD268880EA}
+      IID 213
+      NAME SFXaid_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {097C22C5-2637-4F52-B960-80413C963A63}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXaid_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 383.4630950680273
+      SNAPOFFS 0
+      LENGTH 0.1724716553288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6D14722A-DB5F-43BC-9D42-780B3F43AEBC}
+      IID 214
+      NAME SFXalart_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BE0D374-8084-4E6E-AB08-0F86098DF0AF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXalart_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 383.63556672335613
+      SNAPOFFS 0
+      LENGTH 0.15741496598639
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F348C784-B37D-4AC9-AC8F-0774AAE42597}
+      IID 215
+      NAME SFXbarbball_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A29ED88-02BC-45B9-8B0C-BEFF8FB17614}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXbarbball_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 383.7929816893425
+      SNAPOFFS 0
+      LENGTH 1.30399092970522
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09F685D1-33ED-4019-8A61-BB9849ABD614}
+      IID 216
+      NAME SFXblow1_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {261A60E1-D125-4DFE-A4DE-AF94B7A972DB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXblow1_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 385.09697261904773
+      SNAPOFFS 0
+      LENGTH 1.26498866213152
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {03D9EC67-047F-4446-8870-3E6AE40C69C1}
+      IID 217
+      NAME SFXblow2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABFDAAFC-3656-43D9-9241-E1935A7AAF87}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXblow2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 386.3619612811793
+      SNAPOFFS 0
+      LENGTH 2.1618820861678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B49162EB-C5A1-4AFA-9FC1-4A9426A6B59F}
+      IID 218
+      NAME SFXblow3_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9124FD9B-0E83-4CEB-927F-3C7E9ADCD787}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXblow3_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 388.52384336734707
+      SNAPOFFS 0
+      LENGTH 1.45473922902494
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC7D916B-7284-49BC-ADC7-B7D8B8CE0A0F}
+      IID 219
+      NAME SFXblow4_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A51A240B-C5E6-4F67-91C7-4F3B7E9BEB55}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXblow4_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 389.978582596372
+      SNAPOFFS 0
+      LENGTH 0.1692970521542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8153CA1B-1FBA-4C8C-B48A-81FF7110019F}
+      IID 220
+      NAME SFXbond_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1CE2D5B3-D1EB-412A-93BB-6964A3904D4D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXbond_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 390.1478796485262
+      SNAPOFFS 0
+      LENGTH 6.27446712018141
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6540676-F3FC-4E61-8B5E-05C15395517A}
+      IID 221
+      NAME SFXcloud_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69A025DC-1070-4F2D-BB0A-EA0DBCF4D5E2}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXcloud_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 396.4223467687076
+      SNAPOFFS 0
+      LENGTH 4.40716553287982
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0ECD3AB-CEC0-45F3-88A7-FF78131DC47A}
+      IID 222
+      NAME SFXfly_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA58B6A9-2535-4918-AE50-D7EDDDFAA640}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXfly_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 400.82951230158744
+      SNAPOFFS 0
+      LENGTH 1.41210884353741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CDA27915-2838-421E-A43F-A86CBEC5CEBC}
+      IID 223
+      NAME SFXheavydrop_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A92D19D1-25F7-44A7-B9CA-0FF5CBEDADCE}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXheavydrop_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 402.24162114512484
+      SNAPOFFS 0
+      LENGTH 1.85068027210884
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {739A8F7A-4F96-48BC-8B2E-778AD220C47D}
+      IID 224
+      NAME SFXhindrance2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67D4CED8-DA50-4FC2-94D8-623A1BD07008}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXhindrance2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 404.09230141723367
+      SNAPOFFS 0
+      LENGTH 2.37170068027211
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7036901C-8C9D-465E-846A-62389A6CA9B3}
+      IID 225
+      NAME SFXhindrance_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A16C19B6-FB2C-4F6A-861D-7A7267D938F1}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXhindrance_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 406.4640020975058
+      SNAPOFFS 0
+      LENGTH 2.81528344671202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {419D4400-0484-461F-81AC-277AA147D9D1}
+      IID 226
+      NAME SFXkurukuru_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49BB42D7-5303-4DB4-8C22-5CC59FA33E99}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXkurukuru_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 409.2792855442178
+      SNAPOFFS 0
+      LENGTH 2.18160997732426
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {466F6AB7-A604-4A53-9959-3ADB8ADE2F3B}
+      IID 227
+      NAME SFXmarkbig_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14881847-9A80-42C5-809A-D3BEB20600B6}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXmarkbig_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 411.4608955215421
+      SNAPOFFS 0
+      LENGTH 0.55426303854875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8021ED44-1A9E-4707-8619-497C774704DF}
+      IID 228
+      NAME SFXopen_b_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF24C00A-679B-4A22-A666-F3E1F171EA1D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXopen_b_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 412.01515856009087
+      SNAPOFFS 0
+      LENGTH 0.08696145124717
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40A87B9C-B1AB-40E5-AFAD-614265720E74}
+      IID 229
+      NAME SFXroulette_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BEC07121-9B5D-4333-93CE-DB5A9976F48B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXroulette_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 412.10212001133806
+      SNAPOFFS 0
+      LENGTH 2.01668934240363
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BB9730F-81F9-4E60-AC48-841ED9CC1EB6}
+      IID 230
+      NAME SFXsplash_ball_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {401230BB-A4C4-46FE-A7BC-B151009ABD9D}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXsplash_ball_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 414.1188093537417
+      SNAPOFFS 0
+      LENGTH 1.44335600907029
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1243AFED-C73B-4BF0-84F4-7F34491D5DCA}
+      IID 231
+      NAME SFXsplash_open_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EB8F01B-1272-44E0-8907-71297A694B36}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXsplash_open_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 415.562165362812
+      SNAPOFFS 0
+      LENGTH 4.11612244897959
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB05F372-2F78-46BB-B1ED-138671DFB112}
+      IID 232
+      NAME SFXtarget_miss_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DE78F2D-5E6F-4D75-BA85-5C77E2461D0F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_miss_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 419.67828781179156
+      SNAPOFFS 0
+      LENGTH 4.11612244897959
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {879945AA-D60F-46CD-AAB6-742256EAB0CB}
+      IID 233
+      NAME SFXtarget_miss_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A72D248-A35E-4D8E-BC59-320613BE7126}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_miss_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 423.79441026077114
+      SNAPOFFS 0
+      LENGTH 4.94850340136054
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E3FCC8F-6013-4CE3-8773-67652227E96D}
+      IID 234
+      NAME SFXtarget_score_hi_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE0367C5-7217-494F-9FF2-769EE77CB525}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_score_hi_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 428.7429136621317
+      SNAPOFFS 0
+      LENGTH 4.91904761904762
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA518BDF-3921-426B-8D84-84EFD5B9F15C}
+      IID 235
+      NAME SFXtarget_score_hi_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7F214DB-5523-43A4-9300-BDC6DB38A466}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_score_hi_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 433.6619612811793
+      SNAPOFFS 0
+      LENGTH 4.91904761904762
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD584C01-0CFA-4103-BC21-786CE62CC3AE}
+      IID 236
+      NAME SFXtarget_score_hi_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE8DA997-3DE8-4DB9-943D-8293868948F5}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_score_hi_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 438.5810089002269
+      SNAPOFFS 0
+      LENGTH 4.11290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BE005D4-A4C6-42F8-890A-6C65D7F7D13E}
+      IID 237
+      NAME SFXtarget_score_normal_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B527097C-A311-48F6-A7F3-ED9175DA387B}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_score_normal_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 442.693911394558
+      SNAPOFFS 0
+      LENGTH 4.11290249433107
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C864BDF3-17F7-46AF-A955-D45AE9917446}
+      IID 238
+      NAME SFXtarget_score_normal_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D06EC671-C57D-4180-839C-4F7AD79B1ED7}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_score_normal_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 446.80681388888905
+      SNAPOFFS 0
+      LENGTH 8.3669387755102
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51D47103-98D1-4035-BF20-17E5E949E48A}
+      IID 239
+      NAME SFXtarget_score_super_l_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FD1F8119-DEAB-422F-A8C8-498F1924518A}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_score_super_l_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 455.1737526643993
+      SNAPOFFS 0
+      LENGTH 8.3669387755102
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8FDD689-6D64-4AD6-9002-E43EFC53B7FD}
+      IID 240
+      NAME SFXtarget_score_super_r_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C0A36BD-2B4E-4DC6-9CAD-B0AF98D2FA52}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXtarget_score_super_r_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 463.5406914399095
+      SNAPOFFS 0
+      LENGTH 8.33954648526077
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A97E3858-2B16-4AF4-A8F4-875799CF77CD}
+      IID 241
+      NAME SFXwave_small_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1563C690-6E4A-403E-BD8A-F1AEFCA7371C}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXwave_small_basic_macro.wav"
+      >
+    >
+  >
+  <TRACK {636A437B-43B7-4D5B-86FE-ED92269218F4}
+    NAME "misc same audio 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {636A437B-43B7-4D5B-86FE-ED92269218F4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 11.634489795918379
+      SNAPOFFS 0
+      LENGTH 0.40333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43A246B6-694A-436A-A492-802A03234E38}
+      IID 14
+      NAME SFXdrumcan_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99B64E05-A92F-4A02-A07B-2A4E229C13FB}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\race\SFXdrumcan_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 108.9330950680272
+      SNAPOFFS 0
+      LENGTH 3.30598639455782
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D08729E4-A9FA-4CEA-A67E-75D6E423BD32}
+      IID 63
+      NAME SFXboo_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E11E4F94-3C2C-4FC1-952B-E77C807B6429}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXboo_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 112.68740345804989
+      SNAPOFFS 0
+      LENGTH 0.20965986394558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7441C174-68C8-48CC-BF3D-2CD7DC2E71AC}
+      IID 67
+      NAME SFXcushion06_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {579D4996-7B36-41F4-9C2D-0C872A5743F0}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\bil\SFXcushion06_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 201.74456899092965
+      SNAPOFFS 0
+      LENGTH 0.36333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B4D1239-38F1-4BAB-AB6D-0CD35BDAF5F3}
+      IID 120
+      NAME SFXscorechange02_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9783A3D8-A81C-4F5A-A47A-FF1883E20216}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXscorechange02_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 205.72574812925163
+      SNAPOFFS 0
+      LENGTH 1.81950113378685
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5884B777-F6DE-4BB2-B01B-14062016F72B}
+      IID 127
+      NAME SFXbird_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31E5C7E8-4D6F-4881-A2FD-534606670015}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXbird_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 207.54524926303847
+      SNAPOFFS 0
+      LENGTH 5.80929705215419
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F31E8096-E0DC-4F65-820A-85D25CD0A855}
+      IID 129
+      NAME SFXbird_loop_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B379200D-757C-4582-A936-EBC64ED24578}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\golf\SFXbird_loop_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 218.18572545351464
+      SNAPOFFS 0
+      LENGTH 3.02453514739229
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47189B6B-E5AD-477A-BE4C-71F8187D3EE7}
+      IID 136
+      NAME SFXfly2_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F411284F-7B6F-46EF-9D0C-D11001E6ED0F}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\ending\SFXfly2_basic_macro.wav"
+      >
+    >
+    <ITEM
+      POSITION 237.22549869614502
+      SNAPOFFS 0
+      LENGTH 0.46133786848073
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB193F43-D9F0-40AF-99C8-60F8A619BCCA}
+      IID 152
+      NAME SFXopen_a_basic_macro.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {260AC9B3-1BE8-45AF-84FE-DC1358CEC9BF}
+      <SOURCE WAVE
+        FILE "..\..\dumped_audio\sfx\target\SFXopen_a_basic_macro.wav"
+      >
+    >
+  >
+>

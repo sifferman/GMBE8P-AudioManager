@@ -1,0 +1,3 @@
+sfx/allse/SND_SEB_SE_BALL_SEPCM_14.wav
+sfx/allse/unnamed_sample_386.wav
+sfx/allse/unnamed_sample_387.wav

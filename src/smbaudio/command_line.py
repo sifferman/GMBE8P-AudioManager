@@ -6,6 +6,7 @@ from smbaudio.errors import AudioManagerError
 from smbaudio.game_disc import GameDisc
 from smbaudio.music.music_catalog import MusicDumper
 from smbaudio.patch_command import patch_disc_image
+from smbaudio.reaper_project import write_replacement_config
 
 
 def dump_all_audio(image_path: Path, output_directory: Path) -> None:
@@ -34,14 +35,23 @@ def _build_argument_parser() -> argparse.ArgumentParser:
     patch.add_argument("--json", type=Path, required=True, help="JSON file mapping original filenames to new audio")
     patch.add_argument("-i", "--input", type=Path, required=True, help="retail ISO (never modified)")
     patch.add_argument("-o", "--output", type=Path, required=True, help="ISO to write")
+
+    reaper2json = commands.add_parser(
+        "reaper2json", help="write a JSON file that replaces every original clip in a Reaper project with its render"
+    )
+    reaper2json.add_argument("-i", "--input", type=Path, required=True, help="Reaper project (.rpp)")
+    reaper2json.add_argument("--render", type=Path, required=True, help="audio file the entire project is rendered to")
+    reaper2json.add_argument("-o", "--output", type=Path, required=True, help="JSON file to write")
     return parser
 
 
 def _run_command(arguments: argparse.Namespace) -> None:
     if arguments.command == "dump":
         dump_all_audio(arguments.iso, arguments.output)
-    else:
+    elif arguments.command == "patch":
         patch_disc_image(arguments.json, arguments.input, arguments.output)
+    else:
+        write_replacement_config(arguments.input, arguments.render, arguments.output)
 
 
 def main() -> None:

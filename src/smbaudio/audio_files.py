@@ -2,6 +2,7 @@ import shutil
 import subprocess
 import tempfile
 from dataclasses import dataclass
+from functools import lru_cache
 from pathlib import Path
 
 import numpy
@@ -12,6 +13,7 @@ from smbaudio.errors import AudioManagerError
 
 LARGEST_SAMPLE_VALUE = 0x7FFF
 EXTENSIONS_READABLE_WITHOUT_FFMPEG = (".wav", ".flac")
+WHOLE_FILES_KEPT_AFTER_READING = 4
 
 
 def to_integer_samples(samples: numpy.ndarray) -> numpy.ndarray:
@@ -57,6 +59,11 @@ class LoadedAudio:
     def channel_count(self) -> int:
         return self.samples.shape[1]
 
+    def cropped(self, time_start: float, time_stop: float | None) -> "LoadedAudio":
+        first_sample = round(time_start * self.sample_rate)
+        sample_after_last = None if time_stop is None else round(time_stop * self.sample_rate)
+        return LoadedAudio(self.samples[first_sample:sample_after_last], self.sample_rate)
+
     def resampled(self, sample_rate: int) -> "LoadedAudio":
         if self.sample_rate == sample_rate:
             return self
@@ -79,30 +86,36 @@ def is_ffmpeg_installed() -> bool:
     return shutil.which("ffmpeg") is not None
 
 
+@lru_cache(maxsize=WHOLE_FILES_KEPT_AFTER_READING)
+def _read_whole_file(audio_path: Path) -> LoadedAudio:
+    if audio_path.suffix.lower() in EXTENSIONS_READABLE_WITHOUT_FFMPEG:
+        return LoadedAudio.read_with_soundfile(audio_path)
+    return LoadedAudio.read_with_ffmpeg(audio_path)
+
+
 @dataclass(frozen=True)
 class ReplacementAudioFile:
     path_written_in_config: str
     path: Path
+    time_start: float = 0
+    time_stop: float | None = None
 
     def __str__(self) -> str:
-        return self.path_written_in_config
-
-    @property
-    def is_readable_without_ffmpeg(self) -> bool:
-        return self.path.suffix.lower() in EXTENSIONS_READABLE_WITHOUT_FFMPEG
+        if self.time_start == 0 and self.time_stop is None:
+            return self.path_written_in_config
+        time_stop = "end" if self.time_stop is None else f"{self.time_stop:.3f} s"
+        return f"{self.path_written_in_config} from {self.time_start:.3f} s to {time_stop}"
 
     @property
     def reason_it_cannot_be_read(self) -> str | None:
         if not self.path.is_file():
-            return f"replacement file does not exist: {self}"
-        if not self.is_readable_without_ffmpeg and not is_ffmpeg_installed():
-            return f"{self} needs ffmpeg installed; without ffmpeg only WAV and FLAC can be read"
+            return f"replacement file does not exist: {self.path_written_in_config}"
+        if self.path.suffix.lower() not in EXTENSIONS_READABLE_WITHOUT_FFMPEG and not is_ffmpeg_installed():
+            return f"{self.path_written_in_config} needs ffmpeg installed; without ffmpeg only WAV and FLAC can be read"
         return None
 
     def read(self) -> LoadedAudio:
-        if self.is_readable_without_ffmpeg:
-            return LoadedAudio.read_with_soundfile(self.path)
-        return LoadedAudio.read_with_ffmpeg(self.path)
+        return _read_whole_file(self.path).cropped(self.time_start, self.time_stop)
 
 
 def write_wav_file(wav_path: Path, samples: numpy.ndarray, sample_rate: int) -> None:
