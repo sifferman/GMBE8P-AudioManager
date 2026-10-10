@@ -1,0 +1,30 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "smbaudio"
+version = "0.1.0"
+description = "Replace music and sound effects in Super Monkey Ball (GameCube, NTSC-U, GMBE8P)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+    "soundfile>=0.12",
+    "soxr>=0.3",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.scripts]
+smbaudio = "smbaudio.command_line:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/smbaudio"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
